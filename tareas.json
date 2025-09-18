@@ -1,0 +1,54 @@
+{
+    "Tareas": [
+        {
+            "ID": "2b93fbdf-b685-425a-9f4e-c67b5df912cd",
+            "Nombre": "akj",
+            "Descripcion": "sjkhd",
+            "fecha actual": "2025-09-17T14:59:29.523355",
+            "Vencimiento": "2025-09-20T17:53:53.432133",
+            "Area": "akj",
+            "prioridad": "1",
+            "estado": "activa"
+        },
+        {
+            "ID": "459132a5-ad83-4451-bf7f-e95e6ea4eca7",
+            "Nombre": "akjsk",
+            "Descripcion": "kajs",
+            "fecha actual": "2025-09-17T15:13:18.680153",
+            "Vencimiento": "2025-09-18T16:57:50.918723",
+            "Area": "akjs",
+            "prioridad": "1",
+            "estado": "activa"
+        },
+        {
+            "ID": "d2ce3489-753e-48a8-bba8-dc10bd61709b",
+            "Nombre": "akjs",
+            "Descripcion": "aaaaaaaaaa",
+            "fecha actual": "2025-09-17T16:42:50.160939",
+            "Vencimiento": "2025-09-17T17:01:19.774061",
+            "Area": "akj",
+            "prioridad": "10",
+            "estado": "vencida"
+        },
+        {
+            "ID": "854f2e5d-3088-4c96-87e0-dea945419f15",
+            "Nombre": "akhjs",
+            "Descripcion": "ajkhs",
+            "fecha actual": "2025-09-17T15:02:31.947078",
+            "Vencimiento": "2025-09-17T16:01:23.206245",
+            "Area": "akjhds",
+            "prioridad": "10",
+            "estado": "vencida"
+        },
+        {
+            "ID": "a7e019f2-aec1-4325-8115-fa3ead96db8c",
+            "Nombre": "ajhs",
+            "Descripcion": "akjs",
+            "fecha actual": "2025-09-17T15:06:36.676583",
+            "Vencimiento": "2025-09-17T15:07:36.676583",
+            "Area": "ajks",
+            "prioridad": "10",
+            "estado": "vencida"
+        }
+    ]
+}
